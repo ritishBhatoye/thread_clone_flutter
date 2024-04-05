@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "954563724256",
+    "firebase_url": "https://comment-box-eec76-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "comment-box-eec76",
+    "storage_bucket": "comment-box-eec76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954563724256:android:923f29e75be6f032d26185",
+        "android_client_info": {
+          "package_name": "com.example.commentbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBu4m0tp_xaiC_zvSAdCUYtF2FGoBkqqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
